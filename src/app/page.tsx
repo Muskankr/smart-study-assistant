@@ -152,7 +152,7 @@ C) Unknown`
         </h1>
 
         <textarea
-          className="w-full p-4 border rounded-xl mb-4 focus:outline-none focus:ring-2 focus:ring-blue-400 shadow-sm"
+          className="w-full p-4 border rounded-xl mb-4 focus:outline-none text-black focus:ring-2 focus:ring-blue-400 shadow-sm"
           placeholder="Ask anything like 'What is photosynthesis?'..."
           value={input}
           onChange={(e) => setInput(e.target.value)}
