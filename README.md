@@ -5,7 +5,7 @@ An AI-powered learning assistant designed to simplify complex topics, generate q
 ---
 
 ## 🚀 Live Demo
-👉 https://your-vercel-link-here
+👉 https://smart-study-assistant-app.vercel.app
 
 ---
 
